@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+}
+nav a {
+    color: white;
+    margin: 0;
+    text-decoration: none;
+}
+.login input {
+    padding: 5px;
+    margin: 0 5px;
+}
+banner {
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    padding: 50px;
+    color: white;
+}

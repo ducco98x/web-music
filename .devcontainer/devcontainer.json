@@ -1,0 +1,7 @@
+{
+    "name": "My Codespace",
+    "image": "mcr.microsoft.com/devcontainers/base:latest",
+    "features": {
+        "gh-cli": "latest"
+    }
+}
